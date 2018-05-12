@@ -1,0 +1,50 @@
+_repo: Pipefuls_22699
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Duncan, Walter Jack
+    birthdate: 1881
+    deathdate: 1941
+    gutenberg_agent_id: '37824'
+    url: http://www.gutenberg.org/2009/agents/37824
+covers:
+- cover_type: archival
+  image_path: 22699-h/images/cover_t.jpg
+creator:
+  author:
+    agent_name: Morley, Christopher
+    alias: Morley, Christopher Darlington
+    birthdate: 1890
+    deathdate: 1957
+    gutenberg_agent_id: '109'
+    url: http://www.gutenberg.org/2009/agents/109
+    wikipedia: http://en.wikipedia.org/wiki/Christopher_Morley
+description: ''
+gutenberg_issued: '2007-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22699'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Essays'
+tableOfContents: 'On making friends -- Thoughts on cider -- One-night stands -- The
+  owl train -- Safety pins -- Confessions of a "colyumist" -- Moving -- Surf fishing
+  -- "Idolatry" -- The first commencement address -- The downfall of George Snipe
+  -- Meditations of a bookseller -- If buying a meal were like buying a house -- Adventures
+  in high finance -- On visiting bookshops -- A discovery -- Silas Orrin Howes --
+  Joyce Kilmer -- Tales of two cities: 1. Philadelphia: An early train. Ridge Avenue.
+  The university and the urchin. Pine Street. Pershing in Philadelphia. Fall fever.
+  Two days before Christmas. In West Philadelphia. Horace Traubel -- 2. New York:
+  The anatomy of Manhattan. Vesey Street. Brooklyn Bridge. Three hours for lunch.
+  Passage from some memoirs. First lessons in clowning. House hunting. Long Island
+  revisited. On being in a hurry. Confessions of a human globule. Notes on a Fifth
+  Avenue bus. Sunday morning. Venison pasty. Grand Avenue, Brooklyn -- On waiting
+  for the curtain to go up -- Musings of John Mistletoe -- The world''s most famous
+  oration -- On laziness -- Teaching the prince to take notes -- A city notebook --
+  On going to bed.'
+title: Pipefuls
+url: http://www.gutenberg.org/ebooks/22699
